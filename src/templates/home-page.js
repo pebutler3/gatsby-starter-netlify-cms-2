@@ -41,7 +41,7 @@ const HomePage = ({ data }) => {
   )
 }
 
-Home.propTypes = {
+HomePage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
