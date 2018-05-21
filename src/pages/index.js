@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-import HomePage from 'home-page'
+import HomePage from '../templates/home-page'
 
 export default class IndexPage extends React.Component {
   render() {
